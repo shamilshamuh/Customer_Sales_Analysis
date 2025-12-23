@@ -126,8 +126,8 @@ These KPIs give a quick overview of overall business performance.
 ---
 
 # Dataset
-[sales_data]()
-[Region_data]()
+-[sales_data](https://github.com/shamilshamuh/Customer_Sales_Analysis/blob/main/sales_raw_data.csv)
+-[Region_data](https://github.com/shamilshamuh/Customer_Sales_Analysis/blob/main/sales_raw_data.csv)
 
 # Dashboard
-![image alt]()
+![image alt](https://github.com/shamilshamuh/Customer_Sales_Analysis/blob/main/Customer_Sales_Analysis.png)
