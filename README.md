@@ -119,10 +119,15 @@ These KPIs give a quick overview of overall business performance.
 
 ## 🛠️ Tools Used
 - **Power BI**
+- Ms Excel
 - Data Modeling & DAX
 - Data Visualization & Dashboard Design
 
 ---
 
-## 📂 Repository Structure (Suggested)
+# Dataset
+[sales_data]()
+[Region_data]()
 
+# Dashboard
+![image alt]()
